@@ -1,6 +1,6 @@
 .vscode
 .env
+.git
 node_modules/
 dist/
-docker/*.rpm
 package-lock.json
